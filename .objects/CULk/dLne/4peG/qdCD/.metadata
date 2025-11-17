@@ -1,0 +1,14 @@
+﻿{
+  "Name": "조회",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "qdCDZnIDJUus9I9k0mUmVg",
+  "Reference": "LeGC9P6T3EGJSzEgXj-mXw/qdCDZnIDJUus9I9k0mUmVg",
+  "ParentRef": "LeGC9P6T3EGJSzEgXj-mXw/4peGIwG6SkiCrZOLo6bJhg",
+  "Created": "2025-11-12T00:58:36.945981Z",
+  "Updated": "2025-11-12T00:58:36.945981Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

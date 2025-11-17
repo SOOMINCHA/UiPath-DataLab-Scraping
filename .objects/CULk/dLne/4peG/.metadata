@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 한국관광공사 DATA LAB  지역별 분석  관광지별 현황  관광지별",
+  "Type": "Screen",
+  "Id": "4peGIwG6SkiCrZOLo6bJhg",
+  "Reference": "LeGC9P6T3EGJSzEgXj-mXw/4peGIwG6SkiCrZOLo6bJhg",
+  "ParentRef": "LeGC9P6T3EGJSzEgXj-mXw/dLnelyvLsUycs2Nnq4hOpw",
+  "Created": "2025-11-12T00:57:35.1875042Z",
+  "Updated": "2025-11-12T00:57:35.1875042Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

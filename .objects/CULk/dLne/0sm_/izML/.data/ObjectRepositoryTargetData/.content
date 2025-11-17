@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OolUmPqctEWvkleEpjRa1g" Reference="LeGC9P6T3EGJSzEgXj-mXw/izMLxT_BIkGSiOyGyL88tw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="datalab.visitkorea.or.kr/datalab/portal/loc/getTourDataFormBeta.do" CVScreenId="7fd512f0-9a1f-4690-8ff2-e73c3ca05881" DesignTimeRectangle="945, 598, 32, 32" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='page{0}' tag='A' /&gt;&quot;, nextPage)]" Guid="fb8addc4-f7f6-4ddc-86ff-7af69a53fac5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='한국관광공사 DATA LAB &amp;gt; 지역별 분석 &amp;gt; 관광지별 현황 &amp;gt; 관광지별 분석' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c6e16ff8aaa34400603a4448fe08dd16.png" xmlns="">0mfHH1pyVQkq2DjOmJB4phQ</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="nextPage" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

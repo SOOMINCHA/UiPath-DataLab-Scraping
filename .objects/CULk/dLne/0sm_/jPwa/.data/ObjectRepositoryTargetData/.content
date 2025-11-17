@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hbqvI8tov026Va-e39c6Kw" Reference="LeGC9P6T3EGJSzEgXj-mXw/jPwafLQDU0WllfmW5OIDTg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="datalab.visitkorea.or.kr/datalab/portal/loc/getTourDataFormBeta.do" CVScreenId="a13843a5-7fc7-4746-8244-257bdf8a95e5" DesignTimeRectangle="236, 457, 121, 40" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='region2' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='region2' tag='SELECT' type='' class='select-type1' aaname='*' /&gt;" Guid="216ce399-a1be-4cdb-aa0a-6186aec7b551" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='한국관광공사 DATA LAB &amp;gt; 지역별 분석 &amp;gt; 관광지별 현황 &amp;gt; 관광지별 분석' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="366a08a7-8db6-419a-aaab-157276e4e98d" CvTextArea="266, 492, 46, 19" CvTextArgument="27|ג" CvType="Text" DesignTimeRectangle="236, 429, 43, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='lookup-wrap' tag='STRONG' class='' aaname='시군구' check:innerText='시군구' /&gt;" Guid="21d0e1bf-499f-4a32-a77b-3e6fb8d3d2e6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="dc931adc578d897ac6999ccc25ec454c.png" xmlns="">0VlBr9OnvtkKmLTDACzkxQQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,17 @@
+﻿{
+  "Name": "시도",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "VkcU0lOI8UqTxQvkc_AgYQ",
+  "Reference": "LeGC9P6T3EGJSzEgXj-mXw/VkcU0lOI8UqTxQvkc_AgYQ",
+  "ParentRef": "LeGC9P6T3EGJSzEgXj-mXw/0sm_S59AbUWgpWLtsZwbrw",
+  "Created": "2025-11-12T01:15:31.1731575Z",
+  "Updated": "2025-11-12T02:41:36.4299946Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

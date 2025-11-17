@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zdcoq8P5WEyrU3LcLPPU7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="datalab.visitkorea.or.kr/datalab/portal/loc/getTourDataFormBeta.do" CVScreenId="a09bd408-5522-4fef-a1f9-2eb5d63cd3b0" CvElementArea="902, 469, 38, 38" CvTextArea="915, 480, 11, 15" CvType="Icon" DesignTimeRectangle="903, 470, 36, 36" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='page{0}' tag='A' /&gt;&quot;, nextPage)]" Guid="bb6eadce-d069-4d2f-a563-c8fc8d7f804b" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEbSURBVFhH7Zi7CsJAEEWt/B/xTyz9D8FvsFKwsLAVsbCxV1LZpLKwMoViIULASkWCjF51wgYnDzSPVfbCKQK7M4fZLZKUSLP8hlDL2lC1bVO5aVGpMUsV1ERt9JASEHLc02OxVCgL0As91QSE8pRh0FONL4QRShvyQD0+X6iI6TDqlHyhLC5wUtCb4wtJC/OEY4TC4PyXUGW0poFzpJ2HCh5NJ/K6JHC+Eupur3S+3LmiggZCTH+PCkYoHCMUhxGKwwiJdBZUHy4fjF1U8GhuPZ9rvbm8JwLO50L28bXzPQdnJe+JgJPKkaUBxwiFwdFXSLuXfO0+g7T7UESKmJI6HSQgpN3PBg5GiMVZXHTURG31mNSIQkVGMyGiGwgKfh/6XcH/AAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='한국관광공사 DATA LAB &amp;gt; 지역별 분석 &amp;gt; 관광지별 현황 &amp;gt; 관광지별 분석' /&gt;" SearchSteps="Selector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8beb1296f4250568a767cde1009b8ea7.png" xmlns="">0yT3IXvpR8EWNcXGuytH2mA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="nextPage" />
+    </scg:List>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

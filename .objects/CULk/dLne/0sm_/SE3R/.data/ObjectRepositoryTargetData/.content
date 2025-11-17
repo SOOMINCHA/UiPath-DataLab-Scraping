@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6ezvZuVyTE2dkltMil4p_w" Reference="LeGC9P6T3EGJSzEgXj-mXw/SE3R1mVmFUO9jrDhXLvO_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="datalab.visitkorea.or.kr/datalab/portal/loc/getTourDataFormBeta.do" CVScreenId="a13843a5-7fc7-4746-8244-257bdf8a95e5" DesignTimeRectangle="1401, 823, 150, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='searchWrap' tag='INPUT' type='button' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='searchWrap' tag='INPUT' type='button' class='btn size-m btn-primary' aaname='*' check:text='조회' /&gt;" Guid="a7c081ea-ebdc-46cf-ab1d-7a077b34d9b2" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='한국관광공사 DATA LAB &amp;gt; 지역별 분석 &amp;gt; 관광지별 현황 &amp;gt; 관광지별 분석' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="66f22972bb41af1515dd743cd5dbfbe3.png" xmlns="">05THDb3tQvkWnTyN3JtyLGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

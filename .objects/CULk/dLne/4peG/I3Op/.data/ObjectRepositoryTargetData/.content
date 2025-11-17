@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZUD9T1IvF0CRy4EJrFHP_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="datalab.visitkorea.or.kr/datalab/portal/loc/getTourDataFormBeta.do" CVScreenId="9f97cffa-9e58-4fb1-bedb-e489aa69f13c" CvElementArea="551, 275, 96, 43" CvType="InputBox" DesignTimeRectangle="553, 277, 92, 40" DesignTimeScaleFactor="1" ElementType="DropDown" FullSelectorArgument="&lt;webctrl id='region2' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='region2' tag='SELECT' type='' class='select-type1' aaname='*' /&gt;" Guid="3dfb5f53-efec-4fa1-aa7e-030b45e9fd73" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='한국관광공사 DATA LAB &amp;gt; 지역별 분석 &amp;gt; 관광지별 현황 &amp;gt; 관광지별 분석' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d45127060c2de0712c5ea23c8993f8fd.png" xmlns="">0-2SoVTNi-UiXMYSOXLmW-Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

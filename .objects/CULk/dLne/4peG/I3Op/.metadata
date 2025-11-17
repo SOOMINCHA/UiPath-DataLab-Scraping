@@ -1,0 +1,14 @@
+﻿{
+  "Name": "전체(1)",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "I3OpvACj2EaZ5eFeDmRhcw",
+  "Reference": "LeGC9P6T3EGJSzEgXj-mXw/I3OpvACj2EaZ5eFeDmRhcw",
+  "ParentRef": "LeGC9P6T3EGJSzEgXj-mXw/4peGIwG6SkiCrZOLo6bJhg",
+  "Created": "2025-11-12T00:58:13.1803812Z",
+  "Updated": "2025-11-12T00:58:13.1803812Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
